@@ -72,6 +72,6 @@ The dataset includes transactional e-commerce data with the following columns:
 
 ---
 
-## Dasgboard [VIEW]
+## Dashboard [VIEW]
 <img width="669" height="396" alt="Screenshot 2025-12-29 112645" src="https://github.com/user-attachments/assets/23f4cf3c-b2e2-4617-af6d-2e8c1a75e183" />
 
